@@ -84,13 +84,13 @@
 
 // Question: 6
 
-void main() {
-  Map<String, Map<String, dynamic>>? world = {
-    "countries": {
+   void main() {
+   Map<String, Map<String, dynamic>>? world = {
+   "countries": {
       "Pakistan": {
         "capitalCity": "Islamabad",
-        "currency": "PKR",
-        "language": "Urdu"
+         "currency": "PKR",
+          "language": "Urdu"
       },
       "Bangladesh": {
         "capitalCity": "Dhaka",
